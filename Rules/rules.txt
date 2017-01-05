@@ -1,0 +1,21 @@
+RULES:
+
+1. BE RESPECTFUL TO EVERYONE IN THE COMMUNITY. This includs the following:
+a No racism, sexism, homophobic or xenophobic remarks, joking or not. This includes any derogatory terms.
+b If you have an opinion, say it respectfully.
+c Sharing of any personal information without someone's consent is strictly prohibited. (eg. doxing)
+d Trolling is not allowed.
+e Nicknames, usernames, and avatars that are deemed offensive will result in a warning.
+f Shitposting is not allowed
+
+2. Absolutely no shitposting
+a No unrelated and/or out-of-context memes or images.
+b No spamming of the same/similar messages, images, gibberish or emojis, regardless of same or across multiple channels.
+c No distasteful jokes (like 9/11 or Holocaust). Referring to rule 1 here.
+d No excessive unicode characters, emojis or zalgo text in usernames and / or text.
+e Spamming bot commands outside of #bot-playground or abusing / exploiting any parts of the bots is forbidden.
+
+3. NSFW material is against Discord TOS, so it is strictly not allowed. This includes NSFL material.
+
+4. Moderators have the right to kick/ban if they believe such action is justified. In general, warnings will be issued and discussed with users, ignored warnings will result in a kick/ban.
+a. Breaking of any part of rules 1-3 is cause for moderators to take action.(edited)
