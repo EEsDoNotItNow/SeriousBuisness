@@ -1,0 +1,4 @@
+User: <USERNAME> (Other alieses if needed)
+Action: <ACTION TAKEN> (Banned, Kicked, Blocked, Muted, etc.)
+Reason: Public reason for the Action taken. This should be verbose
+Duration: <TIME> (Eg: 2 weeks, Eternity, n/a)
